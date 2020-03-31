@@ -4,26 +4,25 @@ Git
 Материалы
 ---------
 
-Youtube видео с поверхностным описанием Docker - подойдет для ознакомления
-> https://www.youtube.com/watch?v=QF4ZF857m44
+Интерактивный тур на русском языке
 
-Getting started - официальная документация Docker - больше деталей
+> https://githowto.com/ru
 
-> https://docs.docker.com/engine/docker-overview/
+Git & GitHub Crash Course For Beginners
+> https://www.youtube.com/watch?v=SWYqp7iY_Tc
 
-> https://www.docker.com/101-tutorial
+> https://www.google.com/
 
-Medium - практика по написанию Dockerfile
-> https://rominirani.com/docker-tutorial-series-writing-a-dockerfile-ce5746617cd
+>Практикуйтесь
 
 Ожидания
 --------
 
 После изучения и прохождения этих материалов ожидается такой результат:
 
-* Настроенный Docker на windows машине
-* Понимать отличие image от container
-* Уметь искать нужные image на docker hub
-* Уметь запускать контейнеры
-* Понимать монтирование файловой системы и проброс портов
-* Уметь писать простой Dockerfile
+* Понимать основные команды (add, status, commit, checkout, pull, push, init, clone, config, branch, merge)
+* Уметь инициализировать репозиторий
+* Уметь создавать ветки
+* Уметь коммитить и заливать изменения
+* Уметь мержить бранчи
+* Иметь понимание разницы между merge и rebase
